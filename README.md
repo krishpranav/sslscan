@@ -13,7 +13,7 @@ $ make
 ./sslscan google.com 443
 ```
 
-## More Examples:
+## More Example:
 ```crystal
 # import the ssl scan crystal library
 require "sslscan"
