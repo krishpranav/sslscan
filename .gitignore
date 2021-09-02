@@ -1,0 +1,5 @@
+# vscode cache
+.vscode/
+
+# system cache
+.DS_Store
